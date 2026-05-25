@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/autokuma/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/autokuma/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/autokuma/installation/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/autokuma/installation/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/autokuma/configuration/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/autokuma/configuration/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/autokuma/usage/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/autokuma/usage/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/autokuma/templating/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/autokuma/templating/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/autokuma/snippets/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/autokuma/snippets/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/autokuma/static-monitors/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/autokuma/static-monitors/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/dns/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/dns/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/docker/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/docker/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/gamedig/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/gamedig/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/globalping/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/globalping/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/group/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/group/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/grpc-keyword/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/grpc-keyword/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/http/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/http/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/json-query/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/json-query/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/kafka-producer/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/kafka-producer/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/keyword/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/keyword/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/mongodb/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/mongodb/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/mqtt/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/mqtt/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/mysql/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/mysql/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/ping/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/ping/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/port/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/port/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/postgres/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/postgres/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/push/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/push/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/radius/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/radius/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/real-browser/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/real-browser/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/redis/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/redis/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/steam/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/steam/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/sqlserver/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/sqlserver/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/tailscale-ping/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/tailscale-ping/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/smtp/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/smtp/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/snmp/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/snmp/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/entity-types/rabbitmq/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/entity-types/rabbitmq/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/kuma-cli/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/kuma-cli/</loc>
       </url>
       <url>
-        <loc>https://bigboot.github.io/AutoKuma-docs/dev/kuma-client/</loc>
+        <loc>https://autokuma.bigboot.dev/dev/kuma-client/</loc>
       </url>
 </urlset>
